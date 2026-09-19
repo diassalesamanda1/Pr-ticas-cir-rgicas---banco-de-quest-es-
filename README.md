@@ -15,7 +15,6 @@ Clique em cada módulo para aceder às questões e gabaritos comentados:
 * [Módulo 5: Cicatrização de Feridas](./modulo-05-cicatrizacao.md) *(Questões 101 a 125)*
 * [Módulo 6: Cirurgia Segura, ERAS/ACERTO & ISC](./modulo-06-cirurgia-segura-e-isc.md) *(Questões 126 a 150)*
 
-*(Nota: Se guardou os ficheiros dentro de uma pasta como `banco-de-questoes/`, certifique-se de ajustar os caminhos acima adicionando `banco-de-questoes/` antes do nome do ficheiro, ex: `./banco-de-questoes/modulo-01-perioperatorio.md`)*
 
 ---
 
