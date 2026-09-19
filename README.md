@@ -20,4 +20,4 @@ Clique em cada módulo para aceder às questões e gabaritos comentados:
 
 ## 💡 Como Utilizar este Banco
 * Todas as questões contêm gabarito oculto.
-* Para visualizar a resposta e a justificativa técnica, clique na opção **"Ver Gabarito Comentado"** abaixo de cada questão.
+* Para visualizar a resposta e a justificativa técnica, clique na opção **"Ver Gabarito Comentado"** abaixo de cada questão. 
